@@ -1,0 +1,16 @@
+{
+  "name": "willow-context",
+  "version": "1.0.0",
+  "description": "Takes an object of data with property names of client, server and both and flattens it based on whether server or client information is being requested.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "validator": "^4.0.2",
+    "willow-error": "willowjs/willow-error"
+  }
+}
